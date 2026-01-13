@@ -19,9 +19,13 @@ UI	Streamlit
 APIs	Spotify API
 
 ⚙️ Installation
+
 git clone https://github.com/yourusername/Mood-Music-Recommendation-System.git
+
 cd Mood-Music-Recommendation-System
+
 pip install -r requirements.txt
+
 streamlit run app/app.py
 
 📈 Workflow Diagram
