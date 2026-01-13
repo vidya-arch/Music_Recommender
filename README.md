@@ -5,13 +5,21 @@ Dasari Vidya
 An intelligent system that detects human emotions using face & voice analysis and recommends personalized music in real-time 🎧✨
 
 🚀 Features
+
 🎭 Face Emotion Detection (CNN / HSE_FaceRec_tf)
+
 🎙 Voice Emotion Analysis
+
 🎵 Spotify API Integration
+
 🌍 Multi-Language Support (English / Indian Languages)
+
 📊 Mood-Based Song Filtering
+
 ⚡ Real-Time Recommendations
+
 🛠 Tech Stack
+
 Category	Tools
 Language	Python
 ML/DL	TensorFlow, Keras
@@ -29,4 +37,5 @@ pip install -r requirements.txt
 streamlit run app/app.py
 
 📈 Workflow Diagram
+
 User → Emotion Detection → Mood Classification → Music Recommendation
